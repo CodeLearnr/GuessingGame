@@ -1,0 +1,7 @@
+D:\All files\Bow Valley\SODV9104\HW\LA25_GuessingGame\LA25_GuessingGame\bin\Debug\LA25_GuessingGame.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA25_GuessingGame\LA25_GuessingGame\bin\Debug\LA25_GuessingGame.exe
+D:\All files\Bow Valley\SODV9104\HW\LA25_GuessingGame\LA25_GuessingGame\bin\Debug\LA25_GuessingGame.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA25_GuessingGame\LA25_GuessingGame\obj\Debug\LA25_GuessingGame.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA25_GuessingGame\LA25_GuessingGame\obj\Debug\LA25_GuessingGame.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA25_GuessingGame\LA25_GuessingGame\obj\Debug\LA25_GuessingGame.exe
+D:\All files\Bow Valley\SODV9104\HW\LA25_GuessingGame\LA25_GuessingGame\obj\Debug\LA25_GuessingGame.pdb
